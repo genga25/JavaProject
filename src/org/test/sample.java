@@ -5,6 +5,10 @@ public class sample {
 		System.out.println("genga");
 		System.out.println("Yadhu");
 		System.out.println("Rajesh");
+		
+		String s = "Cute Family";
+		
+	System.out.println(s);
 	}
 
 }
