@@ -5,6 +5,8 @@ public class sample {
 		System.out.println("genga");
 		System.out.println("Yadhu");
 		System.out.println("Rajesh");
+		int a =10;
+		System.out.println(a);
 	}
 
 }
